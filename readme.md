@@ -146,9 +146,10 @@ Na página `info.html`:
 
 ![](images/table-info.png)
 
-# 6. Exemplo de código da página principal (HOME)
+# 7. Exemplo de código da página principal (home.html)
 
 Code:
+
 ![](images/codeExample.png)
 
 Visualização desse mesmo code no Chrome:
