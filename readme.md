@@ -17,14 +17,14 @@
 1.1 A estrutura da sua pasta `lab2` deverá ser como em baixo:
 
 ```
-lab2
 +-- lab2
 |   +-- home.html
 |   +-- info.html
 |   +-- local.html
 |   +-- multimedia.html
 |   +-- images
-    |   +--  ...
+    |   +-- lisbon.png
+        +-- ...
 ```
 
 # 2. Página Web 
