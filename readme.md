@@ -154,6 +154,7 @@ Code:
 
 Visualização desse mesmo code no Chrome:
 
+![](images/imageCode1.PNG)
 ![](images/imageCode.png)
  
  # Fim
